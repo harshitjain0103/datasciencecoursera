@@ -36,5 +36,9 @@ cbind(a,b)
 p <-3:6
 q <-10:13
 
-rbind(p,q)
-cbind(p,q)
+mp <- rbind(p,q)
+mq <- cbind(p,q)
+
+mp
+
+mq
