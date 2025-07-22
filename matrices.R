@@ -25,7 +25,7 @@ dim(l) <- c(2,5)
 l
 
 
-## matrices can also be created by binding coloumns and rows
+## matrices can also be created by binding columns and rows
 
 a <- 1:3
 b <- 1:10
