@@ -17,6 +17,8 @@ print(xy)
 xy <- c(xy, 2, xy)
 xy
 
+## c() means concatenate and is used for vectors
+
 zy <- list(1, "2", TRUE , xy , zy) ## trying lists
 zy
 class(zy)
